@@ -1,1 +1,1 @@
-# dotnet-libgdiplus
+# dotnet runtime with libgdiplus
