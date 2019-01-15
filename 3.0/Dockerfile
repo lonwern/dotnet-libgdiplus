@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1-runtime
+FROM microsoft/dotnet:3.0-runtime
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends libgdiplus libc6-dev \
